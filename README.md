@@ -20,7 +20,7 @@ This project is a professional, plug-and-play Power BI dashboard designed for Aw
 
 | File | Description |
 |------|-------------|
-| `Awansoft_ExpenseDashboard.pbix` | Power BI report file with all visuals, measures, slicers, and formatting |
+| `Awansoft_ExpenseDashboard_DEV.pbix` | Power BI report file with all visuals, measures, slicers, and formatting |
 | `ExpenseClaimsPBI.xml` | Generic Inquiry definition for Expense Claims module |
 | `ExpenseReceiptsPBI.xml` | Generic Inquiry definition for Expense Receipts module |
 | `SetupGuide.pdf` | Comprehensive guide for recreating the dashboard using your own Acumatica instance |
